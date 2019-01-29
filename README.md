@@ -1,3 +1,4 @@
 # Logistic Matrix Factorizaation
 
-Native Implementation and PyTorch Implementation
+This repo contains native implementation and PyTorch implementation of the Logistic Matrix Factorization. It analyses advantages of the PyTorch and it discuss it on the random generated dataset.
+
